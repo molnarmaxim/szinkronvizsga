@@ -1,0 +1,7 @@
+C:\Users\Kenedy\source\repos\megoldas1\megoldasok\bin\Debug\megoldasok.exe.config
+C:\Users\Kenedy\source\repos\megoldas1\megoldasok\bin\Debug\megoldasok.exe
+C:\Users\Kenedy\source\repos\megoldas1\megoldasok\bin\Debug\megoldasok.pdb
+C:\Users\Kenedy\source\repos\megoldas1\megoldasok\obj\Debug\megoldasok.csproj.AssemblyReference.cache
+C:\Users\Kenedy\source\repos\megoldas1\megoldasok\obj\Debug\megoldasok.csproj.CoreCompileInputs.cache
+C:\Users\Kenedy\source\repos\megoldas1\megoldasok\obj\Debug\megoldasok.exe
+C:\Users\Kenedy\source\repos\megoldas1\megoldasok\obj\Debug\megoldasok.pdb
